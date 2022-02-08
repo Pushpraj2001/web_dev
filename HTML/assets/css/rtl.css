@@ -2077,7 +2077,7 @@ ul.products > li.product.list-view-small .price-add-to-cart, .section-onsale-pro
     top: 0;
     position: absolute;
     right: 0;
-    color: #fed700; }
+    color: #0011fe; }
 
 p.stars {
   display: inline-block;
@@ -2335,7 +2335,7 @@ article.post {
         padding: 0.357em 0.714em;
         line-height: 1em; }
       article.post .entry-content .page-links > span {
-        background-color: #fed700; }
+        background-color: #0011fe; }
     article.post .entry-content dl, article.post .entry-content ol, article.post .entry-content ul {
       margin-bottom: 2.143em; }
     article.post .entry-content iframe {
@@ -3822,7 +3822,7 @@ div.quantity.buttons_added {
     padding: 1.429em 1.375em; }
 
 .full-color-background .header-v3, .full-color-background .top-bar {
-  background-color: #fed700; }
+  background-color: #0011fe; }
 
 .full-color-background .header-v3 {
   padding-top: 1.4em; }
